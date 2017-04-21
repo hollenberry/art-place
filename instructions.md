@@ -1,8 +1,7 @@
 # Summary
-This section of the project will help us learn to resolve merge conflicts, stay up to date on the upstream repository, and submit our first Pull Request to an Open Source project.  
-- 
+This repository serves as an example of pixel art. It can also be used to examine a very scary merge conflict.
 
-## Exercise Three
+## Extended Exercise
 -
 
 ## Next Steps
