@@ -1,7 +1,7 @@
 # Summary
 This section of the project will help us learn to make atomic commits. These are my favorite.
 
-** Don't make any commits until you're directed to in the instructions**
+**Don't make any commits until you're directed to in the instructions**
 
 ## Exercise Two
 - Step one: Open your index.html file in your local browser.
