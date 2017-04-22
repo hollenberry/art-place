@@ -10,6 +10,11 @@ This section of the project will help us learn to make atomic commits. These are
   - Pro tip: You can use Command + D to highlight a variable and all following instances of that variable in Atom + Sublime. You can also use Command + Option + G to highlight ALL instances of a variable. [Windows + Linux commands here.](https://www.sublimetext.com/docs/2/multiple_selection_with_the_keyboard.html)
 - Step three: Using your text editor, change the letter `a` to the letter `c` in `column 3`.
 - Step four through ???: Continue repetition of these steps for each variable on lines 10 - 16 until you are bored. Add new variables to complete the whole grid if you're interested.
+  - This looks like:
+    - Change the letter `a` to the letter `d` in `column 4`.
+    - Change the letter `a` to the letter `e` in `column 5`.
+    - Change the letter `a` to the letter `f` in `column 6`.
+    - Change the letter `a` to the letter `g` in `column 4`.
 - Step five: When your grid looks satisfactory, type `git status` to confirm that your file changes have been tracked via git.
 - Step six: Type `git add -p`. Stage **only** the changes for column 2.
 - Step seven: Type `git status`, and notice that you have multiple versions of the sketch.js document.
