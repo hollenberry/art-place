@@ -18,4 +18,4 @@ This section of the project will help us learn to make atomic commits. These are
 
 ## Next Steps
 - Close out all current files on your text editor to avoid accidental overwrites and complexity.
-- Type `git checkout merge-conflict` to switch to the next exercise.
+- Type `git checkout merge-conflict` to switch to the next exercise and follow the instructions in `instructions.md`.
