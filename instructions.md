@@ -30,7 +30,8 @@ If you'd like to see a really intricate example of completed pixel art (by 5th g
     - `git status`,`git add FILE`, `git commit -m "DESCRIPTION"`, `git push`
 
 ## Next Steps
-- Checkout to the pixelart branch, and follow the instructions in the `instructions.md` file.
+- Close out any open files in your text editor (don't want to risk accidental overwrites and confusion).
+- Checkout to the atomic-commits branch, and follow the instructions in the `instructions.md` file.
 
 ## Extra Credit
 We're just getting started with what p5.js can do!
