@@ -13,4 +13,4 @@ We'll be covering the steps of merge conflict resolution live, but here's a [vid
 
 ## Next Steps
 - Close any open items in your text editor.
-- Type `git checkout octocat` and follow the instructions in the `instructions.md`
+- Type `git checkout gallery` and follow the instructions in the `instructions.md`
