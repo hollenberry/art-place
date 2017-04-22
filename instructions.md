@@ -5,7 +5,7 @@ This section of the project will help us learn to make atomic commits. These are
 
 ## Exercise Two
 - Step one: Open your index.html file in your local browser.
-- Step two: Using your text editor, change the letter `a` to the letter `b` in `column 2`. Should look like this:
+- Step two: Using your text editor in the sketch.js file, change the letter `a` to the letter `b` in `column 2` starting on line 42. Should look like this:
   ![ ](./step1.png)
   - Pro tip: You can use Command + D to highlight a variable and all following instances of that variable in Atom + Sublime. You can also use Command + Option + G to highlight ALL instances of a variable. [Windows + Linux commands here.](https://www.sublimetext.com/docs/2/multiple_selection_with_the_keyboard.html)
 - Step three: Using your text editor, change the letter `a` to the letter `c` in `column 3`.
