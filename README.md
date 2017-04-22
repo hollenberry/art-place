@@ -5,13 +5,14 @@ _Disclaimer: This project is based on a workshop talk, so although the instructi
 
 ## Instructions for Getting Started
 
-- Step One, fork this repository:
+- Step One: Fork this repository:
 <img width="1717" alt="step1" src="https://cloud.githubusercontent.com/assets/13326548/25216351/030b0ce4-2557-11e7-8413-04cd2eb60801.png">
 
-- Step Two, clone **your forked repository** (located at www.github.com/YOUR_USERNAME/art-place) to your Command Line Interface ([Instructions](https://youtu.be/GBRIxmKRPGA?t=16s)):
+- Step Two: Clone **your forked repository** (located at www.github.com/YOUR_USERNAME/art-place) to your Command Line Interface ([Instructions](https://youtu.be/GBRIxmKRPGA?t=16s)):
 <img width="1720" alt="step2" src="https://cloud.githubusercontent.com/assets/13326548/25216381/2836bfb8-2557-11e7-80f5-1a24e5338b16.png">
 
-- Step Three, checkout to the `simple-color` branch and follow the instructions in the instructions.md on that branch.
+- Step Three: From your Command Line, make sure to `cd` into the repository that you've just cloned. In this case, `cd art-place`
+- Step Four: Checkout to the `simple-color` branch and follow the instructions in the instructions.md on that branch.
 
 ## Extended Resources
 - [GitHub for Developers Manual](https://github.github.io/training-manual/)
