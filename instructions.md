@@ -2,7 +2,7 @@
 - This exercise is designed to help you approach, and love, merge conflict resolution.
 
 ## Exercise Three
-- Similar to exercise 2, update the color for at least one column. Make sure that it's different than whatever you changed that column to within the `atomic-commits` branch.
+- Similar to exercise 2, update the color for at least one column that you updated on the `atomic-commits` branch. Make sure that it's different than whatever you changed that column to within the `atomic-commits` branch.
 - Want a challenge? Feel comfortable with merge conflicts? Update multiple columns.
 - Want a greater challenge? Update individual rows within each column and try to make the gnarliest merge conflict that you can. Then resolve it.
 - Add and commit your change to the branch.
