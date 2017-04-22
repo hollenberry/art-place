@@ -1,9 +1,8 @@
 # Summary
-This section of the project will help us learn to resolve merge conflicts, stay up to date on the upstream repository, and submit our first Pull Request to an Open Source project.  
-- 
+This section of the project will help us learn to make atomic commits. These are my favorite.  
 
-## Exercise Three
--
+## Exercise Two
+- 
 
 ## Next Steps
 -

@@ -7,11 +7,17 @@ var height = window.innerHeight;
 var blockwidth = width/10;
 var blockheight = height/10;
 
-var x = 'blue';
+var a = 'red';
+var b = 'orange';
+var c = 'yellow';
+var d = 'green';
+var e = 'blue';
+var f = 'purple';
+var g = 'pink';
 
 function draw() {
   //Column 1
-  fill(color('pink'));
+  fill(color(x));
   rect(0, 0, blockwidth, blockheight)
   fill(color(x));
   rect(0, blockheight, blockwidth, blockheight)
